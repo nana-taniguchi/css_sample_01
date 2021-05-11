@@ -5,7 +5,7 @@ body {
 #container {
     width: 800px;
     margin: auto;
-    background-color:white;
+    background-color:pink;
 }
 
 header {
@@ -27,6 +27,6 @@ article {
 footer {
     padding: 40px;
     height: 40px;
-    background-color :white;
+    background-color :pink;
     color: white;
 }
