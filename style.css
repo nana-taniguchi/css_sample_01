@@ -1,5 +1,5 @@
 body {
-    background-color: silver;
+    background-color: yellow;
 }
 
 #container {
@@ -15,7 +15,7 @@ header {
 
 nav {
     padding: 8px 40px;
-    background-color: pink;
+    background-color: yellow;
     color: white;
 }
 
